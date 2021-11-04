@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/sabrinaaraujo-ds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinaaraujo-ds&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaaraujo-ds&layout=compact&langs_count=7&theme=solarized-light"/>
